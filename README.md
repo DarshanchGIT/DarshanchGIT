@@ -60,7 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DarshanchGIT/DarshanchGIT/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
