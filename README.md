@@ -54,8 +54,8 @@
   </a>
   <a href="https://discord.com/channels/@me/689474027353407538" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-<</a>
-<!--   <img src="https://www.instagram.com/sus.sonnu/" height="35" alt="instagram logo"  /> --> -->
+</a>
+<!--   <img src="https://www.instagram.com/sus.sonnu/" height="35" alt="instagram logo"  /> --> 
 </div>
 
 ###
