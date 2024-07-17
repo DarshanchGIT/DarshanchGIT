@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif"  />
-</div>
-<h3 align="left">>Hi 👋! My name is Darshan Choudhary.<br>>A passionate Developer and UI/UX enthusiast</h3>
+<h3 align="left">Hi 👋! My name is Darshan Choudhary.<br>A passionate Developer and UI/UX enthusiast</h3>
 
 ###
 
